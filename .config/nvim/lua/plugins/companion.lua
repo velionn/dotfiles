@@ -22,7 +22,7 @@ return {
             },
           },
           env = {
-            api_key = "YOUR_KEY_HERE",
+            api_key = "AIzaSyCGt4iRKCySGiRTZbqFOSrmtGKqKxu0ED8",
           },
         })
       end,
